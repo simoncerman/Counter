@@ -1,0 +1,45 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  flex-direction: column;
+}
+.counter {
+  display: flex;
+  color: white;
+  font-size: 20px;
+}
+#count {
+  min-width: 5rem;
+  text-align: center;
+  border-radius: 15px;
+  padding: 1rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  background-color: #2c4251;
+  z-index: 1;
+}
+.button {
+  border-radius: 15px;
+  display: flex;
+  background-color: #d16666;
+  color: #2c4251;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+#btn-left {
+  z-index: 0;
+  padding-right: 1.5rem;
+  margin-right: -15px;
+  border-radius: 15px 0px 0px 15px;
+}
+#btn-right {
+  z-index: 0;
+  padding-left: 1.5rem;
+  margin-left: -15px;
+  border-radius: 0px 15px 15px 0px;
+}
