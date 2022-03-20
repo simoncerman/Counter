@@ -8,4 +8,4 @@ For use you just need **index.html, style.css, script.js**. All is local based a
 For more documentation read **documentation.pdf**. In this file you find some more interesting facts and importantly some extra info for you to be more educated!!!
 
 ### Contact
-You can contact me on local email: cerman.s@seznam.cz but at the same time on my buisness mail mineropka34@gmail.com. I will be happy to cooperate and learn new stuff.
+You can contact me on local email: cerman.s@seznam.cz
